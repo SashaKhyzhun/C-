@@ -1,0 +1,21 @@
+e:\users\dima\documents\visual studio 2013\Projects\Lab1Var19\Lab1Var19\bin\Debug\Lab1Var19.exe.config
+e:\users\dima\documents\visual studio 2013\Projects\Lab1Var19\Lab1Var19\bin\Debug\Lab1Var19.exe
+e:\users\dima\documents\visual studio 2013\Projects\Lab1Var19\Lab1Var19\bin\Debug\Lab1Var19.pdb
+e:\users\dima\documents\visual studio 2013\Projects\Lab1Var19\Lab1Var19\obj\Debug\Lab1Var19.csprojResolveAssemblyReference.cache
+e:\users\dima\documents\visual studio 2013\Projects\Lab1Var19\Lab1Var19\obj\Debug\Lab1Var19.Form1.resources
+e:\users\dima\documents\visual studio 2013\Projects\Lab1Var19\Lab1Var19\obj\Debug\Lab1Var19.Properties.Resources.resources
+e:\users\dima\documents\visual studio 2013\Projects\Lab1Var19\Lab1Var19\obj\Debug\Lab1Var19.csproj.GenerateResource.Cache
+e:\users\dima\documents\visual studio 2013\Projects\Lab1Var19\Lab1Var19\obj\Debug\Lab1Var19.exe
+e:\users\dima\documents\visual studio 2013\Projects\Lab1Var19\Lab1Var19\obj\Debug\Lab1Var19.pdb
+E:\Education\Програмування\C#\labka1\Lab1Var19\Lab1Var19\bin\Debug\Lab1Var19.exe.config
+E:\Education\Програмування\C#\labka1\Lab1Var19\Lab1Var19\obj\Debug\Lab1Var19.exe
+E:\Education\Програмування\C#\labka1\Lab1Var19\Lab1Var19\obj\Debug\Lab1Var19.pdb
+E:\Education\Програмування\C#\labka1\Lab1Var19\Lab1Var19\bin\Debug\Lab1Var19.exe
+E:\Education\Програмування\C#\labka1\Lab1Var19\Lab1Var19\bin\Debug\Lab1Var19.pdb
+E:\Education\Програмування\C#\labka1\Lab1Var19\Lab1Var19\obj\Debug\Lab1Var19.csprojResolveAssemblyReference.cache
+E:\Education\Програмування\C#\labka1\Lab1Var19\Lab1Var19\obj\Debug\Lab1Var19.Form1.resources
+E:\Education\Програмування\C#\labka1\Lab1Var19\Lab1Var19\obj\Debug\Lab1Var19.Properties.Resources.resources
+E:\Education\Програмування\C#\labka1\Lab1Var19\Lab1Var19\obj\Debug\Lab1Var19.csproj.GenerateResource.Cache
+E:\Education\2 курс\Програмування\C#\labka1\Lab1Var19\Lab1Var19\bin\Debug\Lab1Var19.exe.config
+E:\Education\2 курс\Програмування\C#\labka1\Lab1Var19\Lab1Var19\obj\Debug\Lab1Var19.exe
+E:\Education\2 курс\Програмування\C#\labka1\Lab1Var19\Lab1Var19\obj\Debug\Lab1Var19.pdb
