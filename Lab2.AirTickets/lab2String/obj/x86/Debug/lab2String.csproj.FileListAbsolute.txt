@@ -1,0 +1,32 @@
+c:\users\sasha\documents\visual studio 2010\Projects\lab2String\lab2String\bin\Debug\lab2String.exe
+c:\users\sasha\documents\visual studio 2010\Projects\lab2String\lab2String\bin\Debug\lab2String.pdb
+c:\users\sasha\documents\visual studio 2010\Projects\lab2String\lab2String\obj\x86\Debug\lab2String.Form1.resources
+c:\users\sasha\documents\visual studio 2010\Projects\lab2String\lab2String\obj\x86\Debug\lab2String.Properties.Resources.resources
+c:\users\sasha\documents\visual studio 2010\Projects\lab2String\lab2String\obj\x86\Debug\lab2String.csproj.GenerateResource.Cache
+c:\users\sasha\documents\visual studio 2010\Projects\lab2String\lab2String\obj\x86\Debug\lab2String.exe
+c:\users\sasha\documents\visual studio 2010\Projects\lab2String\lab2String\obj\x86\Debug\lab2String.pdb
+C:\Users\Sasha\Documents\Visual Studio 2010\Projects\lab2String\lab2String\obj\x86\Debug\lab2String.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Desktop\C#\Projects\lab2String\lab2String\obj\x86\Debug\lab2String.exe
+C:\Users\Sasha\Desktop\C#\Projects\lab2String\lab2String\obj\x86\Debug\lab2String.pdb
+C:\Users\Sasha\Desktop\C#\Projects\lab2String\lab2String\bin\Debug\lab2String.exe
+C:\Users\Sasha\Desktop\C#\Projects\lab2String\lab2String\bin\Debug\lab2String.pdb
+C:\Users\Sasha\Desktop\C#\Projects\lab2String\lab2String\obj\x86\Debug\lab2String.csprojResolveAssemblyReference.cache
+C:\Users\Sasha\Desktop\C#\Projects\lab2String\lab2String\obj\x86\Debug\lab2String.Form1.resources
+C:\Users\Sasha\Desktop\C#\Projects\lab2String\lab2String\obj\x86\Debug\lab2String.Properties.Resources.resources
+C:\Users\Sasha\Desktop\C#\Projects\lab2String\lab2String\obj\x86\Debug\lab2String.csproj.GenerateResource.Cache
+E:\Education\Програмування\C#\labka2\lab2String\obj\x86\Debug\lab2String.exe
+E:\Education\Програмування\C#\labka2\lab2String\obj\x86\Debug\lab2String.pdb
+E:\Education\Програмування\C#\labka2\lab2String\bin\Debug\lab2String.exe
+E:\Education\Програмування\C#\labka2\lab2String\bin\Debug\lab2String.pdb
+E:\Education\Програмування\C#\labka2\lab2String\obj\x86\Debug\lab2String.csprojResolveAssemblyReference.cache
+E:\Education\Програмування\C#\labka2\lab2String\obj\x86\Debug\lab2String.Form1.resources
+E:\Education\Програмування\C#\labka2\lab2String\obj\x86\Debug\lab2String.Properties.Resources.resources
+E:\Education\Програмування\C#\labka2\lab2String\obj\x86\Debug\lab2String.csproj.GenerateResource.Cache
+E:\Education\2 курс\Програмування\C#\labka2\lab2String\obj\x86\Debug\lab2String.exe
+E:\Education\2 курс\Програмування\C#\labka2\lab2String\obj\x86\Debug\lab2String.pdb
+E:\Education\2 курс\Програмування\C#\labka2\lab2String\bin\Debug\lab2String.exe
+E:\Education\2 курс\Програмування\C#\labka2\lab2String\bin\Debug\lab2String.pdb
+E:\Education\2 курс\Програмування\C#\labka2\lab2String\obj\x86\Debug\lab2String.csprojResolveAssemblyReference.cache
+E:\Education\2 курс\Програмування\C#\labka2\lab2String\obj\x86\Debug\lab2String.Form1.resources
+E:\Education\2 курс\Програмування\C#\labka2\lab2String\obj\x86\Debug\lab2String.Properties.Resources.resources
+E:\Education\2 курс\Програмування\C#\labka2\lab2String\obj\x86\Debug\lab2String.csproj.GenerateResource.Cache
